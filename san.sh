@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hi sandeep"
-touch f1
+mkdir d1
